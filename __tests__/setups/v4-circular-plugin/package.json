@@ -17,7 +17,7 @@
     "babel-loader": "^7.1.4",
     "css-loader": "^0.28.11",
     "jest": "^22.3.0",
-    "style-loader": "^0.20.3",
+    "style-loader": "^0.23.1",
     "webpack": "^4.19.1"
   }
 }
